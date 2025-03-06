@@ -2,7 +2,7 @@
 
 My name is **Izzulhaq Fawwaz Syauqiy**.  
 
-I am an undergraduate student at **Institut Teknologi Sepuluh Nopember Surabaya**.  
+I am a Software Engineer.
 
 I am interested in **Android Programming**.  
 
